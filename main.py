@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import random, os, sys
+from random import randint
 import tweepy
 
 file = open("words.txt", "r")
