@@ -2,8 +2,8 @@
 
 <p>
   <ul>
-    <li>Arquivo .exe para windows (não tem virus o windows q bloqueia por nd)</li>
-    <li>Arquivo .apk para android (ative fontes desconhecidas no painel segurança das configurações)</li>
-    <li>iPhone????????????? wtf</li>
+    <li>Bem vindo</li>
+    <li>Somos um bot que posta algumas proibições do governo todos os dias. Código baseado no @Fodase_Bot</li>
+    <li>https://twitter.com/ProibiuBOT</li>
   </ul>
 </p>
