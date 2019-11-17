@@ -8,10 +8,10 @@ file = open("words.txt", "r")
 words = file.readlines()
 
 ####login do bot
-consumer_key = 'iC8KiB6mzDgL9xhCp5IF45wDV'
-consumer_secret = 'NmsinPXvIX4DA9dKR4Mtdg4Pr5KN3UaRlA9v4ZLLdcfYSOsRTx'
-access_token = '1194773307234639873-lUH5j86nltPvxUKH6smRhKsO0IOS58'
-access_token_secret = 'wo5TTgfusLwS3M7Ck00B7Paotju88PSR4ghUuXHxHmsb3'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
